@@ -11,7 +11,6 @@
   inputs.src-nimfcuk-main.ref   = "refs/heads/main";
   inputs.src-nimfcuk-main.owner = "2KAbhishek";
   inputs.src-nimfcuk-main.repo  = "nimfcuk";
-  inputs.src-nimfcuk-main.dir   = "";
   inputs.src-nimfcuk-main.type  = "github";
   
   inputs."docopt".owner = "nim-nix-pkgs";
